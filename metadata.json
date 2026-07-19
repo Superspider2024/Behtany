@@ -1,0 +1,6 @@
+{
+  "name": "Bethany Gardens",
+  "description": "Premium outdoor event venue in Karen, Nairobi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
